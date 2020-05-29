@@ -1,5 +1,6 @@
 #Make sure you write down the device ID from the stdout
-agent on
-discoverable on
-pairable on
-scan on
+bluetoothctl agent on
+bluetoothctl discoverable on
+bluetoothctl pairable on
+bluetoothctl scan on
+bluetoothctl scan off
